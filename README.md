@@ -6,7 +6,7 @@ Live site: https://zchean1216.github.io/portfolio-v2/
 
 ## How it was made
 
-I wrote the content and decided how the site should look and feel: the five-chapter story, the git-commit timeline, the space theme and the jokes. I built it with help from AI (Claude Code), which did a lot of the heavy lifting on the animation code and layout. I know that's not the same as writing every line myself, and I'd rather say so up front.
+I wrote the content and decided how the site should look and feel: the five-chapter story, the git-commit timeline, the space theme and the jokes. I built it with help from AI (Claude Code), which did a lot of the heavy lifting on the animation code and layout. I know that's not the same as writing every line myself, and I rather say so up front.
 
 ## What's in it
 
